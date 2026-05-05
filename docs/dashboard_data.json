@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-05-03",
+  "ultima_actualizacion": "2026-05-05",
   "historico": [
     {
       "fecha": "2024-02-23",
@@ -132,21 +132,25 @@
     {
       "fecha": "2026-05-03",
       "total": 5262
+    },
+    {
+      "fecha": "2026-05-05",
+      "total": 5263
     }
   ],
   "kpis": {
-    "total_activos": 5262,
+    "total_activos": 5263,
     "nuevos_ultimo": 7,
     "inactivos_ultimo": 6,
     "mods_ultimo": 3,
-    "nuevos_total": 578,
+    "nuevos_total": 579,
     "inactivos_total": 150,
     "mods_total": 842
   },
   "por_sector": [
     {
       "label": "Privado",
-      "value": 3625
+      "value": 3626
     },
     {
       "label": "Oficial",
@@ -156,7 +160,7 @@
   "por_depto": [
     {
       "label": "Bogotá, D.C.",
-      "value": 1537
+      "value": 1538
     },
     {
       "label": "Antioquia",
@@ -203,11 +207,11 @@
       "value": 112
     },
     {
-      "label": "Tolima",
+      "label": "Nariño",
       "value": 110
     },
     {
-      "label": "Nariño",
+      "label": "Tolima",
       "value": 110
     },
     {
@@ -222,7 +226,7 @@
     },
     {
       "label": "Virtual",
-      "value": 542
+      "value": 543
     },
     {
       "label": "A distancia",
@@ -288,7 +292,7 @@
     },
     {
       "label": 8,
-      "value": 1460
+      "value": 1461
     },
     {
       "label": 9,
@@ -6103,6 +6107,16 @@
       "MODALIDAD": "Presencial",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "",
       "DIVISIÓN UNINORTE": "Ciencias de la Salud"
+    },
+    {
+      "FECHA_OBTENCION": "2026-05-05",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118602",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN EDUCACIÓN ESPECIAL",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA IBEROAMERICANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación"
     }
   ],
   "inactivos": [
@@ -16871,7 +16885,7 @@
       "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 164 → 165"
     }
   ],
-  "n_nuevos": 578,
+  "n_nuevos": 579,
   "n_inactivos": 150,
   "n_modificados": 842
 }
