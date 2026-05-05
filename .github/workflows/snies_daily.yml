@@ -47,6 +47,14 @@ jobs:
           git diff --staged --quiet || git commit -m "snies: $(date +'%Y-%m-%d')"
           git push
 
+      - name: Subir Excel a OneDrive
+        env:
+          MS_CLIENT_ID:     ${{ secrets.MS_CLIENT_ID }}
+          MS_CLIENT_SECRET: ${{ secrets.MS_CLIENT_SECRET }}
+          MS_TENANT_ID:     ${{ secrets.MS_TENANT_ID }}
+          MS_REFRESH_TOKEN: ${{ secrets.MS_REFRESH_TOKEN }}
+        run: python scripts/upload_onedrive.py
+
       - name: Generar dashboard
         run: python docs/generar_dashboard.py
 
