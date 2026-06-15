@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-06-08",
+  "ultima_actualizacion": "2026-06-15",
   "historico": [
     {
       "fecha": "2024-02-23",
@@ -156,31 +156,35 @@
     {
       "fecha": "2026-06-08",
       "total": 5326
+    },
+    {
+      "fecha": "2026-06-15",
+      "total": 5341
     }
   ],
   "kpis": {
-    "total_activos": 5326,
+    "total_activos": 5341,
     "nuevos_ultimo": 7,
     "inactivos_ultimo": 6,
     "mods_ultimo": 3,
-    "nuevos_total": 652,
-    "inactivos_total": 160,
-    "mods_total": 941
+    "nuevos_total": 668,
+    "inactivos_total": 161,
+    "mods_total": 956
   },
   "por_sector": [
     {
       "label": "Privado",
-      "value": 3668
+      "value": 3681
     },
     {
       "label": "Oficial",
-      "value": 1658
+      "value": 1660
     }
   ],
   "por_depto": [
     {
       "label": "Bogotá, D.C.",
-      "value": 1553
+      "value": 1561
     },
     {
       "label": "Antioquia",
@@ -188,15 +192,15 @@
     },
     {
       "label": "Valle del Cauca",
-      "value": 478
+      "value": 479
     },
     {
       "label": "Santander",
-      "value": 293
+      "value": 295
     },
     {
       "label": "Atlántico",
-      "value": 281
+      "value": 282
     },
     {
       "label": "Bolívar",
@@ -242,15 +246,15 @@
   "por_modalidad": [
     {
       "label": "Presencial",
-      "value": 4370
+      "value": 4377
     },
     {
       "label": "Virtual",
-      "value": 567
+      "value": 571
     },
     {
       "label": "A distancia",
-      "value": 258
+      "value": 259
     },
     {
       "label": "Presencial-Virtual",
@@ -258,18 +262,18 @@
     },
     {
       "label": "Híbrida (Presencial-Virtual)",
-      "value": 42
+      "value": 43
     },
     {
       "label": "Dual",
-      "value": 8
-    },
-    {
-      "label": "Híbrida (A distancia-Virtual)",
-      "value": 4
+      "value": 9
     },
     {
       "label": "Híbrida (Dual-Virtual)",
+      "value": 5
+    },
+    {
+      "label": "Híbrida (A distancia-Virtual)",
       "value": 4
     },
     {
@@ -308,15 +312,15 @@
     },
     {
       "label": 7,
-      "value": 15
+      "value": 17
     },
     {
       "label": 8,
-      "value": 1516
+      "value": 1529
     },
     {
       "label": 9,
-      "value": 1537
+      "value": 1539
     },
     {
       "label": 10,
@@ -328,7 +332,7 @@
     },
     {
       "label": 12,
-      "value": 74
+      "value": 72
     },
     {
       "label": 13,
@@ -6867,6 +6871,166 @@
       "MODALIDAD": "Presencial",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
       "DIVISIÓN UNINORTE": "Ciencias Básicas"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118927",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA DE SOFTWARE",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD SANTO TOMAS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118914",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA INDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD SANTO TOMAS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Meta",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118901",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN EDUCACION INFANTIL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SAN BUENAVENTURA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118912",
+      "NOMBRE_DEL_PROGRAMA": "DERECHO",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD MANUELA BELTRAN-UMB-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Derecho, C. Política y Rel. Internacionales"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118935",
+      "NOMBRE_DEL_PROGRAMA": "NEGOCIOS DIGITALES",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD AUTONOMA DEL CARIBE- UNIAUTONOMA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118944",
+      "NOMBRE_DEL_PROGRAMA": "CAMBIO AMBIENTAL GLOBAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE LOS ANDES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118923",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN LENGUAS EXTRANJERAS CON ÉNFASIS EN INGLÉS Y ESPAÑOL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD AUTONOMA DE BUCARAMANGA-UNAB-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Instituto de Idiomas"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118933",
+      "NOMBRE_DEL_PROGRAMA": "QUÍMICA FARMACÉUTICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD AUTONOMA DE BUCARAMANGA-UNAB-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118897",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES",
+      "NOMBRE_INSTITUCIÓN": "DIRECCION DE EDUCACION POLICIAL",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118922",
+      "NOMBRE_DEL_PROGRAMA": "NEGOCIOS TURÍSTICOS Y HOTELEROS",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA EMPRESARIAL DE LA CAMARA DE COMERCIO DE BOGOTA- UNIEMPRESARIAL",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Híbrida (Dual-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118921",
+      "NOMBRE_DEL_PROGRAMA": "NEGOCIOS TURÍSTICOS Y HOTELEROS",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA EMPRESARIAL DE LA CAMARA DE COMERCIO DE BOGOTA- UNIEMPRESARIAL",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Dual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118938",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA AGRONÓMICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SANTANDER - UDES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cesar",
+      "DIVISIÓN UNINORTE": "Otro"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118859",
+      "NOMBRE_DEL_PROGRAMA": "NUTRICIÓN Y DIETÉTICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD ECCI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118906",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN SEGURIDAD Y SALUD EN EL TRABAJO",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA AMERICANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118928",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN SISTEMAS DE SOFTWARE E INTELIGENCIA ARTIFICIAL",
+      "NOMBRE_INSTITUCIÓN": "FUNDACIÓN UNIVERSITARIA CERVANTES SAN AGUSTÍN - UNICERVANTES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118959",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA ELÉCTRICA",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA DE SANTA MARTA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Ingenierías"
     }
   ],
   "inactivos": [
@@ -8469,6 +8633,16 @@
       "MODALIDAD": "Presencial",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
       "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "90660",
+      "NOMBRE_DEL_PROGRAMA": "NEGOCIOS Y FINANZAS INTERNACIONALES",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD AUTONOMA DEL CARIBE- UNIAUTONOMA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
     }
   ],
   "modificados": [
@@ -18822,9 +18996,174 @@
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
       "DIVISIÓN UNINORTE": "Escuela de Arquitectura, Urbanismo y Diseño",
       "QUE_CAMBIO": "MODALIDAD: Presencial → Virtual"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "452",
+      "NOMBRE_DEL_PROGRAMA": "BIOLOGIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE ANTIOQUIA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ciencias Básicas",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 167 → 157"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "53087",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN HISTORIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL VALLE",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 155 → 170"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "107600",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN PÚBLICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL MAGDALENA - UNIMAGDALENA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 160 → 162"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108302",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN LENGUAS EXTRANJERAS CON ÉNFASIS EN INGLÉS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL MAGDALENA - UNIMAGDALENA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 152 → 155"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "106161",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN EDUCACION INFANTIL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SAN BUENAVENTURA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 157 → 144"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "4498",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA AERONAUTICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SAN BUENAVENTURA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 165 → 140"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "51821",
+      "NOMBRE_DEL_PROGRAMA": "RELACIONES INTERNACIONALES",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SAN BUENAVENTURA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Derecho, C. Política y Rel. Internacionales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 156 → 157"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "21405",
+      "NOMBRE_DEL_PROGRAMA": "DERECHO",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD MANUELA BELTRAN-UMB-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Derecho, C. Política y Rel. Internacionales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 36 → 156"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108347",
+      "NOMBRE_DEL_PROGRAMA": "MEDICINA VETERINARIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD SANTIAGO DE CALI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 163 → 164"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "107925",
+      "NOMBRE_DEL_PROGRAMA": "TEOLOGÍA",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA CATOLICA LUMEN GENTIUM - UNICATÓLICA - CALI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 134 → 130"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "4828",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA INDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA DEL META - UNIMETA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Meta",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 159 → 157"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "106577",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA DE SISTEMAS DE INFORMACION",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA EMPRESARIAL DE SALAMANCA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 154 → 140"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "109800",
+      "NOMBRE_DEL_PROGRAMA": "CIENCIAS NAÚTICAS PARA OFICIALES MERCANTES DE MAQUINAS",
+      "NOMBRE_INSTITUCIÓN": "ESCUELA NAVAL DE CADETES ALMIRANTE PADILLA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bolívar",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 145 → 133"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "52596",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA AMERICANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 161 → 144"
+    },
+    {
+      "FECHA_OBTENCION": "2026-06-15",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "107570",
+      "NOMBRE_DEL_PROGRAMA": "BUEN VIVIR COMUNITARIO",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD AUTÓNOMA INDÍGENA INTERCULTURAL - UAIIN",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cauca",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 191 → 162"
     }
   ],
-  "n_nuevos": 652,
-  "n_inactivos": 160,
-  "n_modificados": 941
+  "n_nuevos": 668,
+  "n_inactivos": 161,
+  "n_modificados": 956
 }
