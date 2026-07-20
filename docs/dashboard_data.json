@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-07-13",
+  "ultima_actualizacion": "2026-07-20",
   "historico": [
     {
       "fecha": "2024-02-23",
@@ -176,51 +176,55 @@
     {
       "fecha": "2026-07-13",
       "total": 5372
+    },
+    {
+      "fecha": "2026-07-20",
+      "total": 5386
     }
   ],
   "kpis": {
-    "total_activos": 5372,
+    "total_activos": 5386,
     "nuevos_ultimo": 7,
     "inactivos_ultimo": 6,
     "mods_ultimo": 3,
-    "nuevos_total": 706,
-    "inactivos_total": 168,
-    "mods_total": 1277
+    "nuevos_total": 721,
+    "inactivos_total": 169,
+    "mods_total": 1429
   },
   "por_sector": [
     {
       "label": "Privado",
-      "value": 3702
+      "value": 3708
     },
     {
       "label": "Oficial",
-      "value": 1670
+      "value": 1678
     }
   ],
   "por_depto": [
     {
       "label": "Bogotá, D.C.",
-      "value": 1532
+      "value": 1564
     },
     {
       "label": "Antioquia",
-      "value": 746
+      "value": 757
     },
     {
       "label": "Valle del Cauca",
-      "value": 470
+      "value": 486
     },
     {
       "label": "Santander",
-      "value": 285
+      "value": 298
     },
     {
       "label": "Atlántico",
-      "value": 280
+      "value": 290
     },
     {
       "label": "Bolívar",
-      "value": 199
+      "value": 200
     },
     {
       "label": "Norte de Santander",
@@ -228,6 +232,10 @@
     },
     {
       "label": "Boyacá",
+      "value": 137
+    },
+    {
+      "label": "Cundinamarca",
       "value": 136
     },
     {
@@ -235,16 +243,16 @@
       "value": 135
     },
     {
-      "label": "Cundinamarca",
-      "value": 133
-    },
-    {
       "label": "Caldas",
-      "value": 116
+      "value": 119
     },
     {
       "label": "Risaralda",
-      "value": 111
+      "value": 112
+    },
+    {
+      "label": "Huila",
+      "value": 110
     },
     {
       "label": "Nariño",
@@ -253,32 +261,28 @@
     {
       "label": "Tolima",
       "value": 109
-    },
-    {
-      "label": "Huila",
-      "value": 106
     }
   ],
   "por_modalidad": [
     {
       "label": "Presencial",
-      "value": 4387
+      "value": 4391
     },
     {
       "label": "Virtual",
-      "value": 588
+      "value": 592
     },
     {
       "label": "A distancia",
-      "value": 260
+      "value": 262
     },
     {
       "label": "Presencial-Virtual",
-      "value": 65
+      "value": 66
     },
     {
       "label": "Híbrida (Presencial-Virtual)",
-      "value": 47
+      "value": 50
     },
     {
       "label": "Dual",
@@ -308,11 +312,11 @@
   "por_periodos": [
     {
       "label": 2,
-      "value": 11
+      "value": 12
     },
     {
       "label": 3,
-      "value": 4
+      "value": 5
     },
     {
       "label": 4,
@@ -332,15 +336,15 @@
     },
     {
       "label": 8,
-      "value": 1567
+      "value": 1584
     },
     {
       "label": 9,
-      "value": 1556
+      "value": 1559
     },
     {
       "label": 10,
-      "value": 2046
+      "value": 2038
     },
     {
       "label": 11,
@@ -7427,6 +7431,156 @@
       "MODALIDAD": "Presencial",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
       "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119154",
+      "NOMBRE_DEL_PROGRAMA": "ECONOMÍA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CALDAS",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Caldas",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119127",
+      "NOMBRE_DEL_PROGRAMA": "ESPECIALIZACIÓN EN EVALUACIÓN Y GESTIÓN DE POLÍTICAS PÚBLICAS PARA LA IGUALDAD SOCIAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL TOLIMA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "",
+      "DIVISIÓN UNINORTE": "Derecho, C. Política y Rel. Internacionales"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119171",
+      "NOMBRE_DEL_PROGRAMA": "NEGOCIOS INTERNACIONALES",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD SANTO TOMAS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Boyacá",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119169",
+      "NOMBRE_DEL_PROGRAMA": "MEDICINA VETERINARIA  Y ZOOTECNIA",
+      "NOMBRE_INSTITUCIÓN": "POLITECNICO COLOMBIANO JAIME ISAZA CADAVID",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Otro"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119129",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN ENERGÍAS",
+      "NOMBRE_INSTITUCIÓN": "UNIDAD CENTRAL DEL VALLE DEL CAUCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119149",
+      "NOMBRE_DEL_PROGRAMA": "CIENCIA POLÍTICA Y GESTIÓN PÚBLICA",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA DE ENVIGADO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Derecho, C. Política y Rel. Internacionales"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119161",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA DE SISTEMAS",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA  SALAZAR Y HERRERA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119142",
+      "NOMBRE_DEL_PROGRAMA": "DISEÑO",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD EIA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Escuela de Arquitectura, Urbanismo y Diseño"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119141",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA AGROINDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA DEL META - UNIMETA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Meta",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119126",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA AGROINDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "UNIDADES TECNOLOGICAS DE SANTANDER",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119140",
+      "NOMBRE_DEL_PROGRAMA": "PROFESIONAL UNIVERSITARIO EN LOGÍSTICA INTEGRAL",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCIÓN UNIVERSITARIA TÉCNICA PARA EL DESARROLLO PROFESIONAL - UTEDÉ",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Otro"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119137",
+      "NOMBRE_DEL_PROGRAMA": "DISEÑO GRÁFICO",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIFICADA NACIONAL DE EDUCACION SUPERIOR-CUN-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Huila",
+      "DIVISIÓN UNINORTE": "Música"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119125",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA DE SISTEMAS",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA AMERICANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119150",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN CIENCIA DE DATOS",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA COMFAMILIAR RISARALDA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Risaralda",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119128",
+      "NOMBRE_DEL_PROGRAMA": "DERECHO",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA DIGITAL DE ANTIOQUIA -IU. DIGITAL",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Derecho, C. Política y Rel. Internacionales"
     }
   ],
   "inactivos": [
@@ -9109,6 +9263,16 @@
       "MODALIDAD": "Presencial",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
       "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "116188",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN HIGIENE Y SEGURIDAD INDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD SANTO TOMAS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ingenierías"
     }
   ],
   "modificados": [
@@ -23158,9 +23322,1681 @@
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Cauca",
       "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
       "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 187 → 178 | MUNICIPIO_OFERTA_PROGRAMA: Popayán → Almaguer"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118621",
+      "NOMBRE_DEL_PROGRAMA": "CIENCIA POLÍTICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Caldas",
+      "DIVISIÓN UNINORTE": "Derecho, C. Política y Rel. Internacionales",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Manizales"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118622",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN FILOLOGÍA E IDIOMAS - INGLÉS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Caldas",
+      "DIVISIÓN UNINORTE": "Instituto de Idiomas",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Manizales"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118828",
+      "NOMBRE_DEL_PROGRAMA": "MEDICINA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CORDOBA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Córdoba",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Montería"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "11428",
+      "NOMBRE_DEL_PROGRAMA": "CONTADURIA PUBLICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD MILITAR-NUEVA GRANADA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MODALIDAD: A distancia → Virtual"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "13976",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD POPULAR DEL CESAR",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cesar",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 168 → 156"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119012",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN DE NEGOCIOS INTERNACIONALES",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL PACIFICO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Buenaventura"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118984",
+      "NOMBRE_DEL_PROGRAMA": "GESTIÓN TERRITORIAL INTERCULTURAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Amazonas",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Leticia"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118623",
+      "NOMBRE_DEL_PROGRAMA": "OCEANOLOGÍA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "DIVISIÓN UNINORTE": "Sin clasificar",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → San Andrés"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "106369",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN EDUCACIÓN BÁSICA PRIMARIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE ANTIOQUIA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Córdoba",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: Carepa → Tierralta"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "454",
+      "NOMBRE_DEL_PROGRAMA": "MATEMATICAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE ANTIOQUIA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ciencias Básicas",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 148 → 153"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118698",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN DE EMPRESAS TURÍSTICAS Y HOTELERAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD INDUSTRIAL DE SANTANDER",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Socorro"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119003",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA AGRONÓMICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD INDUSTRIAL DE SANTANDER",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Málaga"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "53779",
+      "NOMBRE_DEL_PROGRAMA": "ZOOTECNIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD INDUSTRIAL DE SANTANDER",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 176 → 156"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "107458",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN CIENCIAS NATURALES Y EDUCACIÓN AMBIENTAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE NARIÑO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Nariño",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 161 → 160"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108343",
+      "NOMBRE_DEL_PROGRAMA": "ZOOTECNIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL QUINDIO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Quindío",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 170 → 161"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118676",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA AGROINDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE LA GUAJIRA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "La Guajira",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Fonseca"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118675",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN CIENCIAS SOCIALES",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE LA GUAJIRA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "La Guajira",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Fonseca"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118677",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN ESPAÑOL Y HUMANIDADES",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE LA GUAJIRA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "La Guajira",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Fonseca"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108774",
+      "NOMBRE_DEL_PROGRAMA": "FÍSICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DISTRITAL-FRANCISCO JOSE DE CALDAS",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ciencias Básicas",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 145 → 140"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "106061",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN LENGUAS MODERNAS CON ÉNFASIS EN INGLÉS Y FRANCÉS",
+      "NOMBRE_INSTITUCIÓN": "PONTIFICIA UNIVERSIDAD JAVERIANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 180 → 143"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118927",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA DE SOFTWARE",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD SANTO TOMAS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118914",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA INDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD SANTO TOMAS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Meta",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Villavicencio"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "1115",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD EXTERNADO DE COLOMBIA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 15154000.0 → 16668000.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118997",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN LENGUAS EXTRANJERAS CON ÉNFASIS EN INGLÉS Y FRANCÉS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD PONTIFICIA BOLIVARIANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Medellín"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118996",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN LENGUAS EXTRANJERAS CON ÉNFASIS EN INGLÉS Y FRANCÉS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD PONTIFICIA BOLIVARIANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Medellín"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118968",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN INTELIGENCIA ARTIFICIAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE LA SABANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Chía"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "105721",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN EDUCACIÓN INFANTIL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE LA SABANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 157 → 144"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118989",
+      "NOMBRE_DEL_PROGRAMA": "LENGUAS Y CULTURA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SAN BUENAVENTURA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Instituto de Idiomas",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Santiago de Cali"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118988",
+      "NOMBRE_DEL_PROGRAMA": "LENGUAS Y CULTURA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SAN BUENAVENTURA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Instituto de Idiomas",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Santiago de Cali"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118901",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN EDUCACION INFANTIL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SAN BUENAVENTURA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Santiago de Cali"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108331",
+      "NOMBRE_DEL_PROGRAMA": "PROFESIONAL EN LENGUA INGLESA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SAN BUENAVENTURA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Instituto de Idiomas",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 150 → 115"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118809",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN INTELIGENCIA DE NEGOCIOS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD EL BOSQUE",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: nan → 7990000.0 | MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "53540",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA DE SISTEMAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD SANTO TOMAS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Boyacá",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MODALIDAD: Presencial → Híbrida (Presencial-Virtual) | NÚMERO_CRÉDITOS: 152 → 129"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "101838",
+      "NOMBRE_DEL_PROGRAMA": "NEGOCIOS INTERNACIONALES",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD SANTO TOMAS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Boyacá",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 144 → 136"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "5505",
+      "NOMBRE_DEL_PROGRAMA": "COMUNICACION SOCIAL Y PERIODISMO DIGITAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD SERGIO ARBOLEDA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 151 → 128"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118912",
+      "NOMBRE_DEL_PROGRAMA": "DERECHO",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD MANUELA BELTRAN-UMB-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Derecho, C. Política y Rel. Internacionales",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118935",
+      "NOMBRE_DEL_PROGRAMA": "NEGOCIOS DIGITALES",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD AUTONOMA DEL CARIBE- UNIAUTONOMA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Barranquilla"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118830",
+      "NOMBRE_DEL_PROGRAMA": "CIENCIA POLÍTICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD SANTIAGO DE CALI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Derecho, C. Política y Rel. Internacionales",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Santiago de Cali"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118829",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN LOGÍSTICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD LIBRE",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Barranquilla"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "1513",
+      "NOMBRE_DEL_PROGRAMA": "ECONOMIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE MEDELLIN",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 156 → 142"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "17490",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA DE DATOS E INTELIGENCIA ARTIFICIAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE MEDELLIN",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 171 → 142"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "7255",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA FINANCIERA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE MEDELLIN",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 162 → 142"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118944",
+      "NOMBRE_DEL_PROGRAMA": "CAMBIO AMBIENTAL GLOBAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE LOS ANDES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118841",
+      "NOMBRE_DEL_PROGRAMA": "FISIOTERAPIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD COOPERATIVA DE COLOMBIA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Cartago"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "3203",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA INDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD COOPERATIVA DE COLOMBIA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 4987260.0 → nan | MUNICIPIO_OFERTA_PROGRAMA: Bogotá, D.C. → Funza"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118840",
+      "NOMBRE_DEL_PROGRAMA": "MERCADEO",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD COOPERATIVA DE COLOMBIA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Santiago de Cali"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "5390",
+      "NOMBRE_DEL_PROGRAMA": "PSICOLOGIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD COOPERATIVA DE COLOMBIA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "MODALIDAD: Presencial → Híbrida (Presencial-Virtual)"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "4035",
+      "NOMBRE_DEL_PROGRAMA": "PSICOLOGIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD COOPERATIVA DE COLOMBIA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial-Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "MODALIDAD: Presencial → Presencial-Virtual"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118687",
+      "NOMBRE_DEL_PROGRAMA": "DISEÑO",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD AUTONOMA DE BUCARAMANGA-UNAB-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bucaramanga"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118923",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN LENGUAS EXTRANJERAS CON ÉNFASIS EN INGLÉS Y ESPAÑOL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD AUTONOMA DE BUCARAMANGA-UNAB-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Instituto de Idiomas",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bucaramanga"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118933",
+      "NOMBRE_DEL_PROGRAMA": "QUÍMICA FARMACÉUTICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD AUTONOMA DE BUCARAMANGA-UNAB-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bucaramanga"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118680",
+      "NOMBRE_DEL_PROGRAMA": "DISEÑO E INNOVACIÓN",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD ICESI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Escuela de Arquitectura, Urbanismo y Diseño",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Santiago de Cali"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118741",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN LENGUAS EXTRANJERAS CON ÉNFASIS EN INGLÉS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD SANTIAGO DE CALI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Palmira"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118740",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN LENGUAS EXTRANJERAS CON ÉNFASIS EN INGLÉS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD SANTIAGO DE CALI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Palmira"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108508",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA AGROFORESTAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD NACIONAL ABIERTA Y A DISTANCIA UNAD",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 170 → 167"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118985",
+      "NOMBRE_DEL_PROGRAMA": "TRABAJO SOCIAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD NACIONAL ABIERTA Y A DISTANCIA UNAD",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119006",
+      "NOMBRE_DEL_PROGRAMA": "TURISMO SOSTENIBLE E INNOVADOR",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD NACIONAL ABIERTA Y A DISTANCIA UNAD",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118897",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES",
+      "NOMBRE_INSTITUCIÓN": "DIRECCION DE EDUCACION POLICIAL",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "106771",
+      "NOMBRE_DEL_PROGRAMA": "PROFESIONAL EN GASTRONOMÍA Y CULINARIA",
+      "NOMBRE_INSTITUCIÓN": "COLEGIO MAYOR DE ANTIOQUIA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 146 → 136"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118717",
+      "NOMBRE_DEL_PROGRAMA": "DISEÑO AUDIOVISUAL",
+      "NOMBRE_INSTITUCIÓN": "POLITECNICO COLOMBIANO JAIME ISAZA CADAVID",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Escuela de Arquitectura, Urbanismo y Diseño",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Medellín"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "107648",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA INFORMÁTICA",
+      "NOMBRE_INSTITUCIÓN": "POLITECNICO COLOMBIANO JAIME ISAZA CADAVID",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 166 → 147"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108204",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA COLEGIOS DE COLOMBIA - UNICOC",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 180 → 152"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118646",
+      "NOMBRE_DEL_PROGRAMA": "LENGUAS Y CULTURA",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA MONSERRATE -UNIMONSERRATE",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Instituto de Idiomas",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "104533",
+      "NOMBRE_DEL_PROGRAMA": "TEOLOGÍA",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA MONSERRATE -UNIMONSERRATE",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 138 → 141"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118732",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN EN SEGURIDAD Y SALUD EN EL TRABAJO",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA KONRAD LORENZ",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "54406",
+      "NOMBRE_DEL_PROGRAMA": "DERECHO",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA JUAN DE CASTELLANOS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Boyacá",
+      "DIVISIÓN UNINORTE": "Derecho, C. Política y Rel. Internacionales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 160 → 150"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "7824",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA DE SISTEMAS",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA JUAN DE CASTELLANOS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Boyacá",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 150 → 140"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "19164",
+      "NOMBRE_DEL_PROGRAMA": "TRABAJO SOCIAL",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA JUAN DE CASTELLANOS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Boyacá",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 160 → 141"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118767",
+      "NOMBRE_DEL_PROGRAMA": "ACTIVIDAD FÍSICA Y DEPORTE",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA MARIA CANO",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Huila",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Neiva"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118837",
+      "NOMBRE_DEL_PROGRAMA": "FINANZAS",
+      "NOMBRE_INSTITUCIÓN": "POLITECNICO GRANCOLOMBIANO",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118737",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA CATOLICA LUMEN GENTIUM - UNICATÓLICA - CALI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Santiago de Cali"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118749",
+      "NOMBRE_DEL_PROGRAMA": "CONTADURÍA PÚBLICA",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA CATOLICA LUMEN GENTIUM - UNICATÓLICA - CALI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Santiago de Cali"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118922",
+      "NOMBRE_DEL_PROGRAMA": "NEGOCIOS TURÍSTICOS Y HOTELEROS",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA EMPRESARIAL DE LA CAMARA DE COMERCIO DE BOGOTA- UNIEMPRESARIAL",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Híbrida (Dual-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118921",
+      "NOMBRE_DEL_PROGRAMA": "NEGOCIOS TURÍSTICOS Y HOTELEROS",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA EMPRESARIAL DE LA CAMARA DE COMERCIO DE BOGOTA- UNIEMPRESARIAL",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Dual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "52331",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA DE SISTEMAS",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA  SALAZAR Y HERRERA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 170 → 163"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118722",
+      "NOMBRE_DEL_PROGRAMA": "INTELIGENCIA DE NEGOCIOS Y ANALÍTICA DE DATOS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD EIA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Envigado"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "107888",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN PÚBLICA",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA DEL CARIBE - CECAR",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Sucre",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 146 → 152"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118632",
+      "NOMBRE_DEL_PROGRAMA": "ENFERMERÍA",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA RAFAEL NUÑEZ",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Barranquilla"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118807",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN INTELIGENCIA ARTIFICIAL",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA DEL HUILA-CORHUILA-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Huila",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Neiva"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118808",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN INTELIGENCIA ARTIFICIAL",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA DEL HUILA-CORHUILA-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Huila",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Neiva"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118699",
+      "NOMBRE_DEL_PROGRAMA": "CONTADURIA PUBLICA",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA MINUTO DE DIOS -UNIMINUTO-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Barranquilla"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108161",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA INDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA MINUTO DE DIOS -UNIMINUTO-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 162 → 144"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118615",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN EDUCACIÓN INFANTIL",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA MINUTO DE DIOS -UNIMINUTO-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118692",
+      "NOMBRE_DEL_PROGRAMA": "PROFESIONAL EN GASTRONOMÍA",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA MINUTO DE DIOS -UNIMINUTO-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118691",
+      "NOMBRE_DEL_PROGRAMA": "PROFESIONAL EN GASTRONOMÍA",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA MINUTO DE DIOS -UNIMINUTO-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118753",
+      "NOMBRE_DEL_PROGRAMA": "TRABAJO SOCIAL",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA MINUTO DE DIOS -UNIMINUTO-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Fusagasugá"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118602",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN EDUCACIÓN ESPECIAL",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA IBEROAMERICANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118611",
+      "NOMBRE_DEL_PROGRAMA": "ECONOMÍA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SANTANDER - UDES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bucaramanga"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118762",
+      "NOMBRE_DEL_PROGRAMA": "ENFERMERÍA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SANTANDER - UDES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cesar",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Valledupar"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118938",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA AGRONÓMICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SANTANDER - UDES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cesar",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Valledupar"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118612",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA INDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SANTANDER - UDES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bucaramanga"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118660",
+      "NOMBRE_DEL_PROGRAMA": "DISEÑO DE ESPACIOS Y ENTORNOS VIRTUALES",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA REMINGTON",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Escuela de Arquitectura, Urbanismo y Diseño",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Medellín"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118637",
+      "NOMBRE_DEL_PROGRAMA": "TEOLOGIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSITARIA AGUSTINIANA- UNIAGUSTINIANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118772",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN LITERATURA Y LENGUA CASTELLANA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE INVESTIGACION Y DESARROLLO - UDI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bucaramanga"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118771",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN LITERATURA Y LENGUA CASTELLANA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE INVESTIGACION Y DESARROLLO - UDI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bucaramanga"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118618",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN MATEMÁTICAS",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA ANTONIO JOSE DE SUCRE - CORPOSUCRE",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Sucre",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Sincelejo"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118711",
+      "NOMBRE_DEL_PROGRAMA": "TRABAJO SOCIAL",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCIÓN UNIVERSITARIA MAYOR DE CARTAGENA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bolívar",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Cartagena de Indias"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118655",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA DE SOFTWARE",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCIÓN UNIVERSITARIA DE BARRANQUILLA - IUB",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Barranquilla"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118607",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN DE EMPRESAS TURÍSTICAS Y HOTELERAS",
+      "NOMBRE_INSTITUCIÓN": "UNIDADES TECNOLOGICAS DE SANTANDER",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bucaramanga"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118608",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN PÚBLICA",
+      "NOMBRE_INSTITUCIÓN": "TECNOLOGICO DE ANTIOQUIA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Medellín"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118751",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN SOFTWARE",
+      "NOMBRE_INSTITUCIÓN": "TECNOLOGICO DE ANTIOQUIA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Anorí"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "53303",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 4388223.0 → 4421249.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "103164",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN EN SALUD",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 2875043.0 → 3326720.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "111608",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION EN SEGURIDAD Y SALUD EN EL TRABAJO",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial-Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 2875043.0 → 3326720.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "107242",
+      "NOMBRE_DEL_PROGRAMA": "COMUNICACIÓN SOCIAL",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 4842178.0 → 4878619.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "90811",
+      "NOMBRE_DEL_PROGRAMA": "CONTADURIA PUBLICA",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 5144814.0 → 5183533.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "102336",
+      "NOMBRE_DEL_PROGRAMA": "DISEÑO VISUAL",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Música",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 4463882.0 → 4497477.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "91000",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA DE SISTEMAS",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 5523109.0 → 5564675.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "91301",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA ELECTRONICA",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 6355358.0 → 6403188.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "105521",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA INDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 6355358.0 → 6403188.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "117559",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA INDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 6355358.0 → 6403188.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "105720",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN CIENCIAS DEL DEPORTE Y LA EDUCACION FISICA",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 2875043.0 → 3326720.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108407",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN EDUCACION INFANTIL",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 2875043.0 → 3326720.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118681",
+      "NOMBRE_DEL_PROGRAMA": "MERCADEO Y PUBLICIDAD",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: nan → 5953077.0 | MUNICIPIO_OFERTA_PROGRAMA: nan → Santiago de Cali"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "102337",
+      "NOMBRE_DEL_PROGRAMA": "SALUD OCUPACIONAL",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 2875043.0 → 3326720.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "101860",
+      "NOMBRE_DEL_PROGRAMA": "TRABAJO SOCIAL",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 4388223.0 → 4421249.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118619",
+      "NOMBRE_DEL_PROGRAMA": "DISEÑO VISUAL",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA AUTONOMA DE NARIÑO -AUNAR-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Santiago de Cali"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118658",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN ENERGÍAS RENOVABLES",
+      "NOMBRE_INSTITUCIÓN": "ESCUELA TECNOLOGICA INSTITUTO TECNICO CENTRAL",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118967",
+      "NOMBRE_DEL_PROGRAMA": "CONTADURÍA PÚBLICA",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA HORIZONTE",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118654",
+      "NOMBRE_DEL_PROGRAMA": "CONTADURIA PUBLICA",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA SAN MATEO - SAN MATEO EDUCACION SUPERIOR",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118850",
+      "NOMBRE_DEL_PROGRAMA": "CONTADURÍA PÚBLICA",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIFICADA NACIONAL DE EDUCACION SUPERIOR-CUN-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118760",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION DE EDUCACIÓN SUPERIOR DEL LITORAL",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Barranquilla"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118769",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN EN SEGURIDAD Y SALUD EN EL TRABAJO",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION DE EDUCACIÓN SUPERIOR DEL LITORAL",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Barranquilla"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118603",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA TALLER CINCO CENTRO DE DISEÑO",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118604",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA TALLER CINCO CENTRO DE DISEÑO",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119010",
+      "NOMBRE_DEL_PROGRAMA": "CREACIÓN AUDIOVISUAL Y MULTIMEDIA",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA TALLER CINCO CENTRO DE DISEÑO",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Música",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118858",
+      "NOMBRE_DEL_PROGRAMA": "ESPECIALIZACIÓN EN GERENCIA DE PROYECTOS",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION ESCUELA TECNOLOGICA DEL ORIENTE",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bucaramanga"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118755",
+      "NOMBRE_DEL_PROGRAMA": "ESPECIALIZACIÓN EN INTELIGENCIA DE NEGOCIOS Y ANALÍTICA DE DATOS",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION ESCUELA TECNOLOGICA DEL ORIENTE",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Sin clasificar",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bucaramanga"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118713",
+      "NOMBRE_DEL_PROGRAMA": "SEGURIDAD Y SALUD EN EL TRABAJO",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION ESCUELA TECNOLOGICA DEL ORIENTE",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bucaramanga"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118635",
+      "NOMBRE_DEL_PROGRAMA": "DISEÑO DIGITAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD ECCI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118636",
+      "NOMBRE_DEL_PROGRAMA": "DISEÑO GRÁFICO",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD ECCI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Medellín"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118859",
+      "NOMBRE_DEL_PROGRAMA": "NUTRICIÓN Y DIETÉTICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD ECCI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "107850",
+      "NOMBRE_DEL_PROGRAMA": "DERECHO",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA CLARETIANA - UNICLARETIANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Chocó",
+      "DIVISIÓN UNINORTE": "Derecho, C. Política y Rel. Internacionales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 180 → 164"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118906",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN SEGURIDAD Y SALUD EN EL TRABAJO",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA AMERICANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Barranquilla"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "101844",
+      "NOMBRE_DEL_PROGRAMA": "DISEÑO DE MODA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD MANUELA BELTRAN-UMB-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Escuela de Arquitectura, Urbanismo y Diseño",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 148 → 138"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118928",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN SISTEMAS DE SOFTWARE E INTELIGENCIA ARTIFICIAL",
+      "NOMBRE_INSTITUCIÓN": "FUNDACIÓN UNIVERSITARIA CERVANTES SAN AGUSTÍN - UNICERVANTES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118634",
+      "NOMBRE_DEL_PROGRAMA": "DISEÑO GRÁFICO Y MULTIMEDIA",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA COLOMBO GERMANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Música",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118663",
+      "NOMBRE_DEL_PROGRAMA": "COMUNICACIÓN Y DISEÑO PUBLICITARIO",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA DE ASTURIAS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118617",
+      "NOMBRE_DEL_PROGRAMA": "LENGUAS MODERNAS",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA DE ASTURIAS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Instituto de Idiomas",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118777",
+      "NOMBRE_DEL_PROGRAMA": "TRABAJO SOCIAL",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA DE ASTURIAS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118857",
+      "NOMBRE_DEL_PROGRAMA": "CONTADURÍA PÚBLICA",
+      "NOMBRE_INSTITUCIÓN": "FUNDACIÓN UNIVERSITARIA CATÓLICA DEL CARIBE",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Ciencias Básicas",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Barranquilla"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118640",
+      "NOMBRE_DEL_PROGRAMA": "TEOLOGÍA",
+      "NOMBRE_INSTITUCIÓN": "FUNDACIÓN UNIVERSITARIA CATÓLICA DEL CARIBE",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Barranquilla"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118791",
+      "NOMBRE_DEL_PROGRAMA": "ARQUITECTURA",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA DE SANTA MARTA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Escuela de Arquitectura, Urbanismo y Diseño",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Santa Marta"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118794",
+      "NOMBRE_DEL_PROGRAMA": "DISEÑO DE MODAS",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA DE SANTA MARTA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Escuela de Arquitectura, Urbanismo y Diseño",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Santa Marta"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118796",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA AGRÍCOLA",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA DE SANTA MARTA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Santa Marta"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118793",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA DE DATOS E INTELIGENCIA ARTIFICIAL",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA DE SANTA MARTA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Santa Marta"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118798",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA DEL AGUA Y DESARROLLO SOSTENIBLE",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA DE SANTA MARTA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Santa Marta"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118959",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA ELÉCTRICA",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA DE SANTA MARTA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Santa Marta"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118789",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA TOPOGRÁFICA Y GEOMÁTICA",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA DE SANTA MARTA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Sin clasificar",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Santa Marta"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118710",
+      "NOMBRE_DEL_PROGRAMA": "PROFESIONAL EN LENGUAS EXTRANJERAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD SANTO TOMAS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Meta",
+      "DIVISIÓN UNINORTE": "Instituto de Idiomas",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: nan → 4060000.0 | MUNICIPIO_OFERTA_PROGRAMA: nan → Villavicencio"
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118969",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN CIBERSEGURIDAD Y GESTIÓN DE RIESGOS DIGITALES",
+      "NOMBRE_INSTITUCIÓN": "CORPORACIÓN UNIVERSITARIA DE BOGOTA -UNIVERSITARIA DE BOGOTÁ",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
+    },
+    {
+      "FECHA_OBTENCION": "2026-07-20",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118970",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN CIBERSEGURIDAD Y GESTIÓN DE RIESGOS DIGITALES",
+      "NOMBRE_INSTITUCIÓN": "CORPORACIÓN UNIVERSITARIA DE BOGOTA -UNIVERSITARIA DE BOGOTÁ",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MUNICIPIO_OFERTA_PROGRAMA: nan → Bogotá, D.C."
     }
   ],
-  "n_nuevos": 706,
-  "n_inactivos": 168,
-  "n_modificados": 1277
+  "n_nuevos": 721,
+  "n_inactivos": 169,
+  "n_modificados": 1429
 }
