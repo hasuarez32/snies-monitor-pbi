@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-17",
+  "ultima_actualizacion": "2026-08-24",
   "historico": [
     {
       "fecha": "2024-02-23",
@@ -196,31 +196,35 @@
     {
       "fecha": "2026-08-17",
       "total": 5473
+    },
+    {
+      "fecha": "2026-08-24",
+      "total": 5479
     }
   ],
   "kpis": {
-    "total_activos": 5473,
+    "total_activos": 5479,
     "nuevos_ultimo": 7,
     "inactivos_ultimo": 6,
     "mods_ultimo": 3,
-    "nuevos_total": 820,
-    "inactivos_total": 181,
-    "mods_total": 1542
+    "nuevos_total": 827,
+    "inactivos_total": 182,
+    "mods_total": 1546
   },
   "por_sector": [
     {
       "label": "Privado",
-      "value": 3772
+      "value": 3776
     },
     {
       "label": "Oficial",
-      "value": 1701
+      "value": 1703
     }
   ],
   "por_depto": [
     {
       "label": "Bogotá, D.C.",
-      "value": 1599
+      "value": 1600
     },
     {
       "label": "Antioquia",
@@ -232,7 +236,7 @@
     },
     {
       "label": "Santander",
-      "value": 303
+      "value": 306
     },
     {
       "label": "Atlántico",
@@ -282,11 +286,11 @@
   "por_modalidad": [
     {
       "label": "Presencial",
-      "value": 4422
+      "value": 4425
     },
     {
       "label": "Virtual",
-      "value": 624
+      "value": 626
     },
     {
       "label": "A distancia",
@@ -298,7 +302,7 @@
     },
     {
       "label": "Híbrida (Presencial-Virtual)",
-      "value": 63
+      "value": 64
     },
     {
       "label": "Dual",
@@ -328,7 +332,7 @@
   "por_periodos": [
     {
       "label": 2,
-      "value": 12
+      "value": 11
     },
     {
       "label": 3,
@@ -340,7 +344,7 @@
     },
     {
       "label": 5,
-      "value": 20
+      "value": 21
     },
     {
       "label": 6,
@@ -352,7 +356,7 @@
     },
     {
       "label": 8,
-      "value": 1646
+      "value": 1651
     },
     {
       "label": 9,
@@ -360,7 +364,7 @@
     },
     {
       "label": 10,
-      "value": 2016
+      "value": 2017
     },
     {
       "label": 11,
@@ -8587,6 +8591,76 @@
       "MODALIDAD": "Presencial",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
       "DIVISIÓN UNINORTE": "Música"
+    },
+    {
+      "FECHA_OBTENCION": "2026-08-24",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119558",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA DE SISTEMAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD AUTONOMA DE BUCARAMANGA-UNAB-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-08-24",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119547",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN CIBERSEGURIDAD",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD AUTONOMA DE BUCARAMANGA-UNAB-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-08-24",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119546",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN INTELIGENCIA ARTIFICIAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD AUTONOMA DE BUCARAMANGA-UNAB-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-08-24",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119545",
+      "NOMBRE_DEL_PROGRAMA": "CONTADURÍA PÚBLICA",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA DEL AREA ANDINA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-08-24",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119538",
+      "NOMBRE_DEL_PROGRAMA": "MEDICINA VETERINARIA",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCIÓN UNIVERSITARIA DEL PUTUMAYO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Putumayo",
+      "DIVISIÓN UNINORTE": "Otro"
+    },
+    {
+      "FECHA_OBTENCION": "2026-08-24",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119556",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION LOGISTICA",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCIÓN UNIVERSITARIA DEL CARIBE",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-08-24",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "107213",
+      "NOMBRE_DEL_PROGRAMA": "DERECHO",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA HORIZONTE",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Derecho, C. Política y Rel. Internacionales"
     }
   ],
   "inactivos": [
@@ -10398,6 +10472,16 @@
       "SECTOR": "Privado",
       "MODALIDAD": "Presencial",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Caldas",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-08-24",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "104235",
+      "NOMBRE_DEL_PROGRAMA": "CONTADURÍA INTERNACIONAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE LOS ANDES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
       "DIVISIÓN UNINORTE": "Escuela de Negocios"
     }
   ],
@@ -27363,9 +27447,53 @@
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
       "DIVISIÓN UNINORTE": "Escuela de Negocios",
       "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 140 → 141"
+    },
+    {
+      "FECHA_OBTENCION": "2026-08-24",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "1643",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA DE SISTEMAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD AUTONOMA DE BUCARAMANGA-UNAB-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 151 → 134"
+    },
+    {
+      "FECHA_OBTENCION": "2026-08-24",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119230",
+      "NOMBRE_DEL_PROGRAMA": "FISIOTERAPIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD CESMAG - UNICESMAG",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Nariño",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: nan → 5355000.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-08-24",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "115885",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA ADVENTISTA - UNAC",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: nan → 4878211.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-08-24",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108407",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN EDUCACION INFANTIL",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "MODALIDAD: A distancia → Híbrida (Presencial-Virtual) | NÚMERO_CRÉDITOS: 160 → 150"
     }
   ],
-  "n_nuevos": 820,
-  "n_inactivos": 181,
-  "n_modificados": 1542
+  "n_nuevos": 827,
+  "n_inactivos": 182,
+  "n_modificados": 1546
 }
