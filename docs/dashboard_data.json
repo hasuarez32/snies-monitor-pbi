@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-31",
+  "ultima_actualizacion": "2026-09-07",
   "historico": [
     {
       "fecha": "2024-02-23",
@@ -204,39 +204,43 @@
     {
       "fecha": "2026-08-31",
       "total": 5480
+    },
+    {
+      "fecha": "2026-09-07",
+      "total": 5485
     }
   ],
   "kpis": {
-    "total_activos": 5480,
+    "total_activos": 5485,
     "nuevos_ultimo": 7,
     "inactivos_ultimo": 6,
     "mods_ultimo": 3,
-    "nuevos_total": 833,
-    "inactivos_total": 187,
-    "mods_total": 1556
+    "nuevos_total": 840,
+    "inactivos_total": 189,
+    "mods_total": 1568
   },
   "por_sector": [
     {
       "label": "Privado",
-      "value": 3776
+      "value": 3780
     },
     {
       "label": "Oficial",
-      "value": 1704
+      "value": 1705
     }
   ],
   "por_depto": [
     {
       "label": "Bogotá, D.C.",
-      "value": 1598
+      "value": 1602
     },
     {
       "label": "Antioquia",
-      "value": 771
+      "value": 772
     },
     {
       "label": "Valle del Cauca",
-      "value": 490
+      "value": 491
     },
     {
       "label": "Santander",
@@ -284,17 +288,17 @@
     },
     {
       "label": "Nariño",
-      "value": 110
+      "value": 109
     }
   ],
   "por_modalidad": [
     {
       "label": "Presencial",
-      "value": 4423
+      "value": 4425
     },
     {
       "label": "Virtual",
-      "value": 631
+      "value": 633
     },
     {
       "label": "A distancia",
@@ -306,7 +310,7 @@
     },
     {
       "label": "Híbrida (Presencial-Virtual)",
-      "value": 64
+      "value": 65
     },
     {
       "label": "Dual",
@@ -360,15 +364,15 @@
     },
     {
       "label": 8,
-      "value": 1654
+      "value": 1658
     },
     {
       "label": 9,
-      "value": 1598
+      "value": 1600
     },
     {
       "label": 10,
-      "value": 2016
+      "value": 2015
     },
     {
       "label": 11,
@@ -8725,6 +8729,76 @@
       "MODALIDAD": "Presencial",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
       "DIVISIÓN UNINORTE": "Ciencias Básicas"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119578",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN DE AGRONEGOCIOS",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA DEL AREA ANDINA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "106813",
+      "NOMBRE_DEL_PROGRAMA": "MERCADEO",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA CATOLICA LUMEN GENTIUM - UNICATÓLICA - CALI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119586",
+      "NOMBRE_DEL_PROGRAMA": "PUBLICIDAD DIGITAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSITARIA AGUSTINIANA- UNIAGUSTINIANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Otro"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119585",
+      "NOMBRE_DEL_PROGRAMA": "PUBLICIDAD DIGITAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSITARIA AGUSTINIANA- UNIAGUSTINIANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119577",
+      "NOMBRE_DEL_PROGRAMA": "BIOLOGÍA",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA - ITM",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ciencias Básicas"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119587",
+      "NOMBRE_DEL_PROGRAMA": "COMUNICACIÓN SOCIAL Y PERIODISMO",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA PARA EL DESARROLLO HUMANO - UNINPAHU",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "107938",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA AMBIENTAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD ECCI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ingenierías"
     }
   ],
   "inactivos": [
@@ -10597,6 +10671,26 @@
       "MODALIDAD": "Presencial",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
       "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108661",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN LITERATURA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD MARIANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Nariño",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "52769",
+      "NOMBRE_DEL_PROGRAMA": "COMUNICACION SOCIAL",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA PARA EL DESARROLLO HUMANO - UNINPAHU",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales"
     }
   ],
   "modificados": [
@@ -27715,9 +27809,141 @@
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
       "DIVISIÓN UNINORTE": "Ingenierías",
       "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: nan → 4350000.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "8441",
+      "NOMBRE_DEL_PROGRAMA": "ECONOMIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL CAUCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cauca",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 176 → 160"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "103514",
+      "NOMBRE_DEL_PROGRAMA": "ESTADÍSTICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CORDOBA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Córdoba",
+      "DIVISIÓN UNINORTE": "Ciencias Básicas",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 159 → 142"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "4770",
+      "NOMBRE_DEL_PROGRAMA": "CONSTRUCCIÓN Y GESTIÓN EN ARQUITECTURA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD-COLEGIO MAYOR DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Arquitectura, Urbanismo y Diseño",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 104 → 173"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "432",
+      "NOMBRE_DEL_PROGRAMA": "BIBLIOTECOLOGIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE ANTIOQUIA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 148 → 130"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "2995",
+      "NOMBRE_DEL_PROGRAMA": "MATEMATICAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CARTAGENA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bolívar",
+      "DIVISIÓN UNINORTE": "Ciencias Básicas",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 171 → 169"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "4282",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA AGROFORESTAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE NARIÑO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Nariño",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 194 → 166"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108217",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA DE SISTEMAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE NARIÑO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Nariño",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 167 → 149"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108967",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN EDUCACIÓN INFANTIL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL MAGDALENA - UNIMAGDALENA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 157 → 152"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "109090",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN TECNOLOGÍA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL MAGDALENA - UNIMAGDALENA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "MODALIDAD: Presencial → Híbrida (Presencial-Virtual) | NÚMERO_CRÉDITOS: 154 → 157"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "5484",
+      "NOMBRE_DEL_PROGRAMA": "ENFERMERIA",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA DEL AREA ANDINA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Risaralda",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 160 → 170"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "102940",
+      "NOMBRE_DEL_PROGRAMA": "MARKETING Y NEGOCIOS INTERNACIONALES",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA IBEROAMERICANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 157 → 143"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-07",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "9488",
+      "NOMBRE_DEL_PROGRAMA": "CIENCIAS NAVALES PARA OFICIALES NAVALES",
+      "NOMBRE_INSTITUCIÓN": "ESCUELA NAVAL DE CADETES ALMIRANTE PADILLA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bolívar",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 121 → 143"
     }
   ],
-  "n_nuevos": 833,
-  "n_inactivos": 187,
-  "n_modificados": 1556
+  "n_nuevos": 840,
+  "n_inactivos": 189,
+  "n_modificados": 1568
 }
