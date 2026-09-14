@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-09-07",
+  "ultima_actualizacion": "2026-09-14",
   "historico": [
     {
       "fecha": "2024-02-23",
@@ -208,25 +208,29 @@
     {
       "fecha": "2026-09-07",
       "total": 5485
+    },
+    {
+      "fecha": "2026-09-14",
+      "total": 5488
     }
   ],
   "kpis": {
-    "total_activos": 5485,
+    "total_activos": 5488,
     "nuevos_ultimo": 7,
     "inactivos_ultimo": 6,
     "mods_ultimo": 3,
-    "nuevos_total": 840,
+    "nuevos_total": 843,
     "inactivos_total": 189,
-    "mods_total": 1568
+    "mods_total": 1580
   },
   "por_sector": [
     {
       "label": "Privado",
-      "value": 3780
+      "value": 3782
     },
     {
       "label": "Oficial",
-      "value": 1705
+      "value": 1706
     }
   ],
   "por_depto": [
@@ -244,7 +248,7 @@
     },
     {
       "label": "Santander",
-      "value": 306
+      "value": 307
     },
     {
       "label": "Atlántico",
@@ -264,7 +268,7 @@
     },
     {
       "label": "Cundinamarca",
-      "value": 138
+      "value": 139
     },
     {
       "label": "Cauca",
@@ -294,11 +298,11 @@
   "por_modalidad": [
     {
       "label": "Presencial",
-      "value": 4425
+      "value": 4424
     },
     {
       "label": "Virtual",
-      "value": 633
+      "value": 635
     },
     {
       "label": "A distancia",
@@ -306,11 +310,11 @@
     },
     {
       "label": "Presencial-Virtual",
-      "value": 66
+      "value": 67
     },
     {
       "label": "Híbrida (Presencial-Virtual)",
-      "value": 65
+      "value": 66
     },
     {
       "label": "Dual",
@@ -364,15 +368,15 @@
     },
     {
       "label": 8,
-      "value": 1658
+      "value": 1664
     },
     {
       "label": 9,
-      "value": 1600
+      "value": 1599
     },
     {
       "label": 10,
-      "value": 2015
+      "value": 2013
     },
     {
       "label": 11,
@@ -8799,6 +8803,36 @@
       "MODALIDAD": "Presencial",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
       "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-14",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119607",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN SOSTENIBLE",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE LA SABANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial-Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-14",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119105",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN INTELIGENCIA ARTIFICIAL Y CIENCIA DE DATOS",
+      "NOMBRE_INSTITUCIÓN": "UNIDADES TECNOLOGICAS DE SANTANDER",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-14",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119597",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN DE EMPRESAS AGROPECUARIAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD SANTO TOMAS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Meta",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
     }
   ],
   "inactivos": [
@@ -27941,9 +27975,141 @@
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Bolívar",
       "DIVISIÓN UNINORTE": "Otro",
       "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 121 → 143"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-14",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108733",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN LITERATURA Y LENGUA CASTELLANA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL MAGDALENA - UNIMAGDALENA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 158 → 151"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-14",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "52349",
+      "NOMBRE_DEL_PROGRAMA": "COMUNICACIÓN AUDIOVISUAL Y MULTIMEDIOS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE LA SABANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 162 → 144"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-14",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "1238",
+      "NOMBRE_DEL_PROGRAMA": "PSICOLOGIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE LA SABANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "MODALIDAD: Presencial → Híbrida (Presencial-Virtual) | NÚMERO_CRÉDITOS: 160 → 144"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-14",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "2519",
+      "NOMBRE_DEL_PROGRAMA": "COMUNICACION SOCIAL Y PERIODISMO",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL NORTE",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 155 → 148"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-14",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "2692",
+      "NOMBRE_DEL_PROGRAMA": "PSICOLOGIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD EL BOSQUE",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 164 → 136"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-14",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119381",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA BIOMÉDICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD ANTONIO NARIÑO",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bolívar",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: nan → 6000000.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-14",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118500",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA ELECTROMECÁNICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD ANTONIO NARIÑO",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Híbrida (A distancia-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: nan → 5500000.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-14",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119383",
+      "NOMBRE_DEL_PROGRAMA": "OPTOMETRÍA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD ANTONIO NARIÑO",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: nan → 8142000.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-14",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "20217",
+      "NOMBRE_DEL_PROGRAMA": "ECONOMIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD TECNOLOGICA DE BOLIVAR",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bolívar",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 155 → 134"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-14",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "106600",
+      "NOMBRE_DEL_PROGRAMA": "MEDICINA VETERINARIA Y ZOOTECNIA",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA SAN MARTIN",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 183 → 170"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-14",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "103367",
+      "NOMBRE_DEL_PROGRAMA": "COMUNICACIÓN SOCIAL Y MEDIOS DIGITALES",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSIDAD DE LA COSTA CUC",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 148 → 149"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-14",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "103239",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA INDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA NAVARRA - UNINAVARRA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Huila",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MODALIDAD: Presencial → Virtual"
     }
   ],
-  "n_nuevos": 840,
+  "n_nuevos": 843,
   "n_inactivos": 189,
-  "n_modificados": 1568
+  "n_modificados": 1580
 }
