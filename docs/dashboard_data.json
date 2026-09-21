@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-09-14",
+  "ultima_actualizacion": "2026-09-21",
   "historico": [
     {
       "fecha": "2024-02-23",
@@ -212,31 +212,35 @@
     {
       "fecha": "2026-09-14",
       "total": 5488
+    },
+    {
+      "fecha": "2026-09-21",
+      "total": 5493
     }
   ],
   "kpis": {
-    "total_activos": 5488,
+    "total_activos": 5493,
     "nuevos_ultimo": 7,
     "inactivos_ultimo": 6,
     "mods_ultimo": 3,
-    "nuevos_total": 843,
-    "inactivos_total": 189,
-    "mods_total": 1580
+    "nuevos_total": 852,
+    "inactivos_total": 193,
+    "mods_total": 1585
   },
   "por_sector": [
     {
       "label": "Privado",
-      "value": 3782
+      "value": 3783
     },
     {
       "label": "Oficial",
-      "value": 1706
+      "value": 1710
     }
   ],
   "por_depto": [
     {
       "label": "Bogotá, D.C.",
-      "value": 1602
+      "value": 1603
     },
     {
       "label": "Antioquia",
@@ -252,7 +256,7 @@
     },
     {
       "label": "Atlántico",
-      "value": 300
+      "value": 301
     },
     {
       "label": "Bolívar",
@@ -272,7 +276,7 @@
     },
     {
       "label": "Cauca",
-      "value": 136
+      "value": 137
     },
     {
       "label": "Caldas",
@@ -298,23 +302,23 @@
   "por_modalidad": [
     {
       "label": "Presencial",
-      "value": 4424
+      "value": 4426
     },
     {
       "label": "Virtual",
-      "value": 635
+      "value": 637
     },
     {
       "label": "A distancia",
-      "value": 269
+      "value": 268
+    },
+    {
+      "label": "Híbrida (Presencial-Virtual)",
+      "value": 67
     },
     {
       "label": "Presencial-Virtual",
       "value": 67
-    },
-    {
-      "label": "Híbrida (Presencial-Virtual)",
-      "value": 66
     },
     {
       "label": "Dual",
@@ -322,7 +326,7 @@
     },
     {
       "label": "Híbrida (A distancia-Virtual)",
-      "value": 6
+      "value": 7
     },
     {
       "label": "Híbrida (Dual-Virtual)",
@@ -352,7 +356,7 @@
     },
     {
       "label": 4,
-      "value": 31
+      "value": 32
     },
     {
       "label": 5,
@@ -368,15 +372,15 @@
     },
     {
       "label": 8,
-      "value": 1664
+      "value": 1665
     },
     {
       "label": 9,
-      "value": 1599
+      "value": 1606
     },
     {
       "label": 10,
-      "value": 2013
+      "value": 2009
     },
     {
       "label": 11,
@@ -8833,6 +8837,96 @@
       "MODALIDAD": "Presencial",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Meta",
       "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119620",
+      "NOMBRE_DEL_PROGRAMA": "Ingeniería en Inteligencia Artificial y Ciencia de datos",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL CAUCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cauca",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119619",
+      "NOMBRE_DEL_PROGRAMA": "Licenciatura en Etnoeducación y Ciencias Sociales",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL CAUCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cauca",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119588",
+      "NOMBRE_DEL_PROGRAMA": "Artes Musicales",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL MAGDALENA - UNIMAGDALENA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Híbrida (A distancia-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Magdalena",
+      "DIVISIÓN UNINORTE": "Música"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119599",
+      "NOMBRE_DEL_PROGRAMA": "ENFERMERÍA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD ICESI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119616",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA DE PRODUCCIÓN",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA - ITM",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "115820",
+      "NOMBRE_DEL_PROGRAMA": "Negocios Digitales",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA EAM",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Quindío",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119625",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA  AMBIENTAL",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA SAN MATEO - SAN MATEO EDUCACION SUPERIOR",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "111795",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN TURISTICA Y HOTELERA",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA AMERICANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119604",
+      "NOMBRE_DEL_PROGRAMA": "CIENCIAS AERONÁUTICAS",
+      "NOMBRE_INSTITUCIÓN": "CENTRO DE ESTUDIOS AERONÁUTICOS - CEA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ingenierías"
     }
   ],
   "inactivos": [
@@ -10725,6 +10819,46 @@
       "MODALIDAD": "Presencial",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
       "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "15440",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN ETNOEDUCACION",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL CAUCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cauca",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119356",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA EN INTELIGENCIA ARTIFICIAL Y CIENCIA DE DATOS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD PONTIFICIA BOLIVARIANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "5093",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA TELEMATICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD ICESI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "109386",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION AGROPECUARIA",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA HORIZONTE",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
     }
   ],
   "modificados": [
@@ -28107,9 +28241,64 @@
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Huila",
       "DIVISIÓN UNINORTE": "Ingenierías",
       "QUE_CAMBIO": "MODALIDAD: Presencial → Virtual"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "107709",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA AGRONÓMICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD EAFIT-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 176 → 163"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "107739",
+      "NOMBRE_DEL_PROGRAMA": "ODONTOLOGIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD ANTONIO NARIÑO",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cauca",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 188 → 177"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "116381",
+      "NOMBRE_DEL_PROGRAMA": "PREGRADO EN CREACIÓN Y DISEÑO",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSIDAD DE LA COSTA CUC",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Escuela de Arquitectura, Urbanismo y Diseño",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 3 → 151"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "52131",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA DE PRODUCCIÓN",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA - ITM",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 166 → 147"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-21",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "109403",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA  AMBIENTAL",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA SAN MATEO - SAN MATEO EDUCACION SUPERIOR",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 164 → 151"
     }
   ],
-  "n_nuevos": 843,
-  "n_inactivos": 189,
-  "n_modificados": 1580
+  "n_nuevos": 852,
+  "n_inactivos": 193,
+  "n_modificados": 1585
 }
