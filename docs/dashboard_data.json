@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-09-21",
+  "ultima_actualizacion": "2026-09-28",
   "historico": [
     {
       "fecha": "2024-02-23",
@@ -216,63 +216,67 @@
     {
       "fecha": "2026-09-21",
       "total": 5493
+    },
+    {
+      "fecha": "2026-09-28",
+      "total": 5498
     }
   ],
   "kpis": {
-    "total_activos": 5493,
+    "total_activos": 5498,
     "nuevos_ultimo": 7,
     "inactivos_ultimo": 6,
     "mods_ultimo": 3,
-    "nuevos_total": 852,
-    "inactivos_total": 193,
-    "mods_total": 1585
+    "nuevos_total": 863,
+    "inactivos_total": 199,
+    "mods_total": 1636
   },
   "por_sector": [
     {
       "label": "Privado",
-      "value": 3783
+      "value": 3784
     },
     {
       "label": "Oficial",
-      "value": 1710
+      "value": 1714
     }
   ],
   "por_depto": [
     {
       "label": "Bogotá, D.C.",
-      "value": 1603
+      "value": 1605
     },
     {
       "label": "Antioquia",
-      "value": 772
+      "value": 771
     },
     {
       "label": "Valle del Cauca",
-      "value": 491
+      "value": 492
     },
     {
       "label": "Santander",
-      "value": 307
+      "value": 308
     },
     {
       "label": "Atlántico",
-      "value": 301
+      "value": 303
     },
     {
       "label": "Bolívar",
-      "value": 202
+      "value": 199
     },
     {
       "label": "Norte de Santander",
       "value": 150
     },
     {
-      "label": "Boyacá",
+      "label": "Cundinamarca",
       "value": 141
     },
     {
-      "label": "Cundinamarca",
-      "value": 139
+      "label": "Boyacá",
+      "value": 141
     },
     {
       "label": "Cauca",
@@ -280,11 +284,11 @@
     },
     {
       "label": "Caldas",
-      "value": 120
+      "value": 122
     },
     {
       "label": "Tolima",
-      "value": 114
+      "value": 113
     },
     {
       "label": "Huila",
@@ -292,7 +296,7 @@
     },
     {
       "label": "Risaralda",
-      "value": 110
+      "value": 109
     },
     {
       "label": "Nariño",
@@ -302,23 +306,23 @@
   "por_modalidad": [
     {
       "label": "Presencial",
-      "value": 4426
+      "value": 4424
     },
     {
       "label": "Virtual",
-      "value": 637
+      "value": 640
     },
     {
       "label": "A distancia",
-      "value": 268
+      "value": 267
     },
     {
       "label": "Híbrida (Presencial-Virtual)",
-      "value": 67
+      "value": 70
     },
     {
       "label": "Presencial-Virtual",
-      "value": 67
+      "value": 69
     },
     {
       "label": "Dual",
@@ -348,7 +352,7 @@
   "por_periodos": [
     {
       "label": 2,
-      "value": 11
+      "value": 10
     },
     {
       "label": 3,
@@ -372,15 +376,15 @@
     },
     {
       "label": 8,
-      "value": 1665
+      "value": 1673
     },
     {
       "label": 9,
-      "value": 1606
+      "value": 1608
     },
     {
       "label": 10,
-      "value": 2009
+      "value": 2004
     },
     {
       "label": 11,
@@ -392,7 +396,7 @@
     },
     {
       "label": 13,
-      "value": 22
+      "value": 23
     },
     {
       "label": 14,
@@ -8927,6 +8931,116 @@
       "MODALIDAD": "Virtual",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
       "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119634",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN EDUCACIÓN BÁSICA PRIMARIA CON ÉNFASIS EN INGLÉS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CALDAS",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Caldas",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119635",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN EDUCACIÓN CAMPESINA Y RURAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CALDAS",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Caldas",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119626",
+      "NOMBRE_DEL_PROGRAMA": "Ingeniería de Alimentos",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD INDUSTRIAL DE SANTANDER",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119628",
+      "NOMBRE_DEL_PROGRAMA": "Nutrición y Dietética",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE LA SABANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119650",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN DE SERVICIOS DE SALUD",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD FUCS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "105016",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA DEL AREA ANDINA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cesar",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119632",
+      "NOMBRE_DEL_PROGRAMA": "FINANZAS Y BANCAS",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCIÓN UNIVERSITARIA DE BARRANQUILLA - IUB",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119641",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION EN SEGURIDAD Y SALUD EN EL TRABAJO",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA ANTONIO JOSE CAMACHO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial-Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119663",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA MECATRÓNICA",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION TECNOLOGICA INDUSTRIAL COLOMBIANA - TEINCO",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119637",
+      "NOMBRE_DEL_PROGRAMA": "ANIMACION",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA TALLER CINCO CENTRO DE DISEÑO",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Música"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "115814",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN TURISTICA Y HOTELERA",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSITARIA AMERICANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
     }
   ],
   "inactivos": [
@@ -10859,6 +10973,66 @@
       "MODALIDAD": "Presencial",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
       "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119127",
+      "NOMBRE_DEL_PROGRAMA": "Especialización en Evaluación y Gestión de Políticas Públicas para la Igualdad Social",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL TOLIMA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "A distancia",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Tolima",
+      "DIVISIÓN UNINORTE": "Derecho, C. Política y Rel. Internacionales"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "104914",
+      "NOMBRE_DEL_PROGRAMA": "COMERCIO INTERNACIONAL Y FINANZAS",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSIDAD DE BOGOTA - JORGE TADEO LOZANO",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bolívar",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108043",
+      "NOMBRE_DEL_PROGRAMA": "MERCADEO Y PUBLICIDAD",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSIDAD DE BOGOTA - JORGE TADEO LOZANO",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bolívar",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108010",
+      "NOMBRE_DEL_PROGRAMA": "NEGOCIOS INTERNACIONALES Y MERCADEO",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSIDAD DE BOGOTA - JORGE TADEO LOZANO",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bolívar",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "105923",
+      "NOMBRE_DEL_PROGRAMA": "MEDICINA VETERINARIA Y ZOOTECNIA",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCIÓN UNIVERSITARIA VISIÓN DE LAS AMÉRICAS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Risaralda",
+      "DIVISIÓN UNINORTE": "Otro"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "53907",
+      "NOMBRE_DEL_PROGRAMA": "MEDICINA VETERINARIA Y ZOOTECNIA",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCIÓN UNIVERSITARIA VISIÓN DE LAS AMÉRICAS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Otro"
     }
   ],
   "modificados": [
@@ -28296,9 +28470,570 @@
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
       "DIVISIÓN UNINORTE": "Ingenierías",
       "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 164 → 151"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "8015",
+      "NOMBRE_DEL_PROGRAMA": "BACTERIOLOGIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CORDOBA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Córdoba",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 176 → 160"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "4319",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA AMBIENTAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD TECNOLOGICA DEL CHOCO-DIEGO LUIS CORDOBA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Chocó",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 166 → 164"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "19763",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "19785",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "19761",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "117202",
+      "NOMBRE_DEL_PROGRAMA": "Administración de Empresas",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "53668",
+      "NOMBRE_DEL_PROGRAMA": "CONTADURIA PUBLICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "53714",
+      "NOMBRE_DEL_PROGRAMA": "CONTADURIA PÚBLICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118077",
+      "NOMBRE_DEL_PROGRAMA": "Contaduría Pública",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "1928",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA AGRONOMICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "109964",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA DE SISTEMAS Y COMPUTACION",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "109965",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA DE SISTEMAS Y COMPUTACION",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "111350",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA DE SISTEMAS Y COMPUTACIÓN",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "116385",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA DE SISTEMAS Y COMPUTACIÓN",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: nan → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "110946",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA DE SOFTWARE",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "4086",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA ELECTRONICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "53872",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA INDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "116851",
+      "NOMBRE_DEL_PROGRAMA": "Ingeniería Mecatrónica",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "117898",
+      "NOMBRE_DEL_PROGRAMA": "Ingeniería Topográfica y Geomática",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Sin clasificar",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "107037",
+      "NOMBRE_DEL_PROGRAMA": "LICENCIATURA EN CIENCIAS SOCIALES",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "116292",
+      "NOMBRE_DEL_PROGRAMA": "Licenciatura en Educación Física, Recreación y Deportes",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "10528",
+      "NOMBRE_DEL_PROGRAMA": "MUSICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Música",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "53776",
+      "NOMBRE_DEL_PROGRAMA": "PROFESIONAL EN CIENCIAS DEL DEPORTE",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "90941",
+      "NOMBRE_DEL_PROGRAMA": "PSICOLOGÍA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "889",
+      "NOMBRE_DEL_PROGRAMA": "ZOOTECNIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "14969",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "898",
+      "NOMBRE_DEL_PROGRAMA": "ENFERMERIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "52090",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA AMBIENTAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "116101",
+      "NOMBRE_DEL_PROGRAMA": "Ingeniería de Software",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "902",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "117676",
+      "NOMBRE_DEL_PROGRAMA": "Medicina Veterinaria y Zootecnia",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "102822",
+      "NOMBRE_DEL_PROGRAMA": "ZOOTECNIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE CUNDINAMARCA",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "COSTO_MATRÍCULA_ESTUD_NUEVOS: 1480400.0 → 1750900.0"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108767",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA BIOMÉDICA",
+      "NOMBRE_INSTITUCIÓN": "PONTIFICIA UNIVERSIDAD JAVERIANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 149 → 152"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "1102",
+      "NOMBRE_DEL_PROGRAMA": "CONTADURIA PUBLICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD SANTO TOMAS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 165 → 143"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "1236",
+      "NOMBRE_DEL_PROGRAMA": "ENFERMERIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE LA SABANA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cundinamarca",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 189 → 162"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "17581",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA FISICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD EAFIT-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 169 → 163"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "109260",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA BIOMÉDICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SAN BUENAVENTURA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MODALIDAD: Presencial → Híbrida (Presencial-Virtual) | NÚMERO_CRÉDITOS: 156 → 148"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "103149",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA INDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE MEDELLIN",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 169 → 140"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "90772",
+      "NOMBRE_DEL_PROGRAMA": "GEOCIENCIAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE LOS ANDES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Ciencias Básicas",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 129 → 132"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "3055",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSIDAD PILOTO DE COLOMBIA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 144 → 142"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "53840",
+      "NOMBRE_DEL_PROGRAMA": "PSICOLOGIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD COOPERATIVA DE COLOMBIA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial-Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "MODALIDAD: Presencial → Presencial-Virtual"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "102061",
+      "NOMBRE_DEL_PROGRAMA": "DERECHO",
+      "NOMBRE_INSTITUCIÓN": "CORPORACIÓN UNIVERSIDAD DEL SINU - ELIAS BECHARA ZAINUM - UNISINU -",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Derecho, C. Política y Rel. Internacionales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 175 → 177"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "118101",
+      "NOMBRE_DEL_PROGRAMA": "Turismo",
+      "NOMBRE_INSTITUCIÓN": "INSTITUTO UNIVERSITARIO DE LA PAZ",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "MODALIDAD: Presencial → Híbrida (Presencial-Virtual)"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "106944",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN DE SERVICIOS DE SALUD",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD FUCS",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 150 → 136"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "102856",
+      "NOMBRE_DEL_PROGRAMA": "ECOLOGÍA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD CES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ciencias Básicas",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 171 → 170"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "1837",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD CATOLICA DE PEREIRA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Risaralda",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 159 → 145"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "1894",
+      "NOMBRE_DEL_PROGRAMA": "CONTADURIA PUBLICA",
+      "NOMBRE_INSTITUCIÓN": "POLITECNICO GRANCOLOMBIANO",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 140 → 135"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "53632",
+      "NOMBRE_DEL_PROGRAMA": "CONTADURÍA PÚBLICA",
+      "NOMBRE_INSTITUCIÓN": "POLITECNICO GRANCOLOMBIANO",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 144 → 135"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "101347",
+      "NOMBRE_DEL_PROGRAMA": "PSICOLOGÍA",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA DEL AREA ANDINA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cesar",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 160 → 162"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "106813",
+      "NOMBRE_DEL_PROGRAMA": "MERCADEO",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA CATOLICA LUMEN GENTIUM - UNICATÓLICA - CALI",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 162 → 144"
+    },
+    {
+      "FECHA_OBTENCION": "2026-09-28",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "90816",
+      "NOMBRE_DEL_PROGRAMA": "CIENCIA DE LA INFORMACION Y BIBLIOTECOLOGIA",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA PARA EL DESARROLLO HUMANO - UNINPAHU",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Otro",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 162 → 144"
     }
   ],
-  "n_nuevos": 852,
-  "n_inactivos": 193,
-  "n_modificados": 1585
+  "n_nuevos": 863,
+  "n_inactivos": 199,
+  "n_modificados": 1636
 }
