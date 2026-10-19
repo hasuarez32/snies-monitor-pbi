@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-10-12",
+  "ultima_actualizacion": "2026-10-19",
   "historico": [
     {
       "fecha": "2024-02-23",
@@ -224,31 +224,35 @@
     {
       "fecha": "2026-10-12",
       "total": 5512
+    },
+    {
+      "fecha": "2026-10-19",
+      "total": 5500
     }
   ],
   "kpis": {
-    "total_activos": 5512,
+    "total_activos": 5500,
     "nuevos_ultimo": 7,
     "inactivos_ultimo": 6,
     "mods_ultimo": 3,
-    "nuevos_total": 880,
-    "inactivos_total": 202,
-    "mods_total": 1657
+    "nuevos_total": 882,
+    "inactivos_total": 216,
+    "mods_total": 1659
   },
   "por_sector": [
     {
       "label": "Privado",
-      "value": 3796
+      "value": 3783
     },
     {
       "label": "Oficial",
-      "value": 1716
+      "value": 1717
     }
   ],
   "por_depto": [
     {
       "label": "Bogotá, D.C.",
-      "value": 1611
+      "value": 1603
     },
     {
       "label": "Antioquia",
@@ -260,7 +264,7 @@
     },
     {
       "label": "Santander",
-      "value": 309
+      "value": 305
     },
     {
       "label": "Atlántico",
@@ -310,7 +314,7 @@
   "por_modalidad": [
     {
       "label": "Presencial",
-      "value": 4430
+      "value": 4418
     },
     {
       "label": "Virtual",
@@ -356,7 +360,7 @@
   "por_periodos": [
     {
       "label": 2,
-      "value": 10
+      "value": 5
     },
     {
       "label": 3,
@@ -380,7 +384,7 @@
     },
     {
       "label": 8,
-      "value": 1691
+      "value": 1690
     },
     {
       "label": 9,
@@ -388,7 +392,7 @@
     },
     {
       "label": 10,
-      "value": 1999
+      "value": 1993
     },
     {
       "label": 11,
@@ -9215,6 +9219,26 @@
       "MODALIDAD": "Virtual",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
       "DIVISIÓN UNINORTE": "Música"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119745",
+      "NOMBRE_DEL_PROGRAMA": "Ingeniería Industrial",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD FRANCISCO DE PAULA SANTANDER",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Norte de Santander",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119734",
+      "NOMBRE_DEL_PROGRAMA": "PUBLICIDAD Y MARKETING DIGITAL",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA DIGITAL DE ANTIOQUIA -IU. DIGITAL",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
     }
   ],
   "inactivos": [
@@ -11237,6 +11261,146 @@
       "MODALIDAD": "Presencial",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
       "DIVISIÓN UNINORTE": "Instituto de Estudios en Educación"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "102869",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACIÓN DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "CORPORACIÓN UNIVERSIDAD DEL SINU - ELIAS BECHARA ZAINUM - UNISINU -",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "6632",
+      "NOMBRE_DEL_PROGRAMA": "ADMINISTRACION DE NEGOCIOS INTERNACIONALES",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SANTANDER - UDES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "5381",
+      "NOMBRE_DEL_PROGRAMA": "FISIOTERAPIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SANTANDER - UDES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Norte de Santander",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "102898",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA AGROINDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SANTANDER - UDES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "102771",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA DE SOFTWARE",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SANTANDER - UDES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "105181",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA PETROQUÍMICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SANTANDER - UDES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Santander",
+      "DIVISIÓN UNINORTE": "Ingenierías"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "102846",
+      "NOMBRE_DEL_PROGRAMA": "CONTADURÍA PÚBLICA",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION DE EDUCACION SUPERIOR SAN JOSE -FESSANJOSE-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "105608",
+      "NOMBRE_DEL_PROGRAMA": "PROFESIONAL DE DISEÑO DE MODAS",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION DE EDUCACION SUPERIOR SAN JOSE -FESSANJOSE-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Arquitectura, Urbanismo y Diseño"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "102870",
+      "NOMBRE_DEL_PROGRAMA": "PROFESIONAL EN ADMINISTRACIÓN DE EMPRESAS",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION DE EDUCACION SUPERIOR SAN JOSE -FESSANJOSE-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "106017",
+      "NOMBRE_DEL_PROGRAMA": "PROFESIONAL EN DISEÑO DE ESPACIOS",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION DE EDUCACION SUPERIOR SAN JOSE -FESSANJOSE-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Arquitectura, Urbanismo y Diseño"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "105779",
+      "NOMBRE_DEL_PROGRAMA": "PROFESIONAL EN DISEÑO INDUSTRIAL",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION DE EDUCACION SUPERIOR SAN JOSE -FESSANJOSE-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Arquitectura, Urbanismo y Diseño"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "104998",
+      "NOMBRE_DEL_PROGRAMA": "PROFESIONAL EN MARKETING INTERNACIONAL",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION DE EDUCACION SUPERIOR SAN JOSE -FESSANJOSE-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "105187",
+      "NOMBRE_DEL_PROGRAMA": "PROFESIONAL EN PUBLICIDAD",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION DE EDUCACION SUPERIOR SAN JOSE -FESSANJOSE-",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Bogotá, D.C.",
+      "DIVISIÓN UNINORTE": "Escuela de Arquitectura, Urbanismo y Diseño"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "108269",
+      "NOMBRE_DEL_PROGRAMA": "PUBLICIDAD Y MERCADEO DIGITAL",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCION UNIVERSITARIA DIGITAL DE ANTIOQUIA -IU. DIGITAL",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Virtual",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Escuela de Negocios"
     }
   ],
   "modificados": [
@@ -29466,9 +29630,31 @@
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
       "DIVISIÓN UNINORTE": "Escuela de Negocios",
       "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 158 → 143"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "20561",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA MECANICA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD FRANCISCO DE PAULA SANTANDER",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Norte de Santander",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 167 → 156"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-19",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "102206",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERÍA DE SISTEMAS",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD CATÓLICA LUIS AMIGÓ",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 170 → 150"
     }
   ],
-  "n_nuevos": 880,
-  "n_inactivos": 202,
-  "n_modificados": 1657
+  "n_nuevos": 882,
+  "n_inactivos": 216,
+  "n_modificados": 1659
 }
