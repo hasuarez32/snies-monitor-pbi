@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-10-19",
+  "ultima_actualizacion": "2026-10-26",
   "historico": [
     {
       "fecha": "2024-02-23",
@@ -228,25 +228,29 @@
     {
       "fecha": "2026-10-19",
       "total": 5500
+    },
+    {
+      "fecha": "2026-10-26",
+      "total": 5501
     }
   ],
   "kpis": {
-    "total_activos": 5500,
+    "total_activos": 5501,
     "nuevos_ultimo": 7,
     "inactivos_ultimo": 6,
     "mods_ultimo": 3,
-    "nuevos_total": 882,
-    "inactivos_total": 216,
-    "mods_total": 1659
+    "nuevos_total": 884,
+    "inactivos_total": 217,
+    "mods_total": 1661
   },
   "por_sector": [
     {
       "label": "Privado",
-      "value": 3783
+      "value": 3782
     },
     {
       "label": "Oficial",
-      "value": 1717
+      "value": 1719
     }
   ],
   "por_depto": [
@@ -256,11 +260,11 @@
     },
     {
       "label": "Antioquia",
-      "value": 772
+      "value": 773
     },
     {
       "label": "Valle del Cauca",
-      "value": 493
+      "value": 494
     },
     {
       "label": "Santander",
@@ -276,7 +280,7 @@
     },
     {
       "label": "Norte de Santander",
-      "value": 151
+      "value": 150
     },
     {
       "label": "Cundinamarca",
@@ -326,7 +330,7 @@
     },
     {
       "label": "Híbrida (Presencial-Virtual)",
-      "value": 70
+      "value": 71
     },
     {
       "label": "Presencial-Virtual",
@@ -384,15 +388,15 @@
     },
     {
       "label": 8,
-      "value": 1690
+      "value": 1691
     },
     {
       "label": 9,
-      "value": 1610
+      "value": 1611
     },
     {
       "label": 10,
-      "value": 1993
+      "value": 1992
     },
     {
       "label": 11,
@@ -9239,6 +9243,26 @@
       "MODALIDAD": "Virtual",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
       "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-26",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119766",
+      "NOMBRE_DEL_PROGRAMA": "PSICOLOGÍA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DEL VALLE",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Valle del Cauca",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-26",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "119782",
+      "NOMBRE_DEL_PROGRAMA": "Comunicación Digital",
+      "NOMBRE_INSTITUCIÓN": "INSTITUCIÓN UNIVERSITARIA PÚBLICA DE BELLO - IUPBELLO",
+      "SECTOR": "Oficial",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
+      "DIVISIÓN UNINORTE": "Humanidades y Cs. Sociales"
     }
   ],
   "inactivos": [
@@ -11401,6 +11425,16 @@
       "MODALIDAD": "Virtual",
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
       "DIVISIÓN UNINORTE": "Escuela de Negocios"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-26",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "52353",
+      "NOMBRE_DEL_PROGRAMA": "ENFERMERIA",
+      "NOMBRE_INSTITUCIÓN": "UNIVERSIDAD DE SANTANDER - UDES",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Norte de Santander",
+      "DIVISIÓN UNINORTE": "Ciencias de la Salud"
     }
   ],
   "modificados": [
@@ -29652,9 +29686,31 @@
       "DEPARTAMENTO_OFERTA_PROGRAMA": "Antioquia",
       "DIVISIÓN UNINORTE": "Ingenierías",
       "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 170 → 150"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-26",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "10766",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA DE MINAS",
+      "NOMBRE_INSTITUCIÓN": "FUNDACION UNIVERSITARIA DEL AREA ANDINA",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Híbrida (Presencial-Virtual)",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Cesar",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "MODALIDAD: Presencial → Híbrida (Presencial-Virtual) | NÚMERO_CRÉDITOS: 170 → 158"
+    },
+    {
+      "FECHA_OBTENCION": "2026-10-26",
+      "CÓDIGO_SNIES_DEL_PROGRAMA": "1976",
+      "NOMBRE_DEL_PROGRAMA": "INGENIERIA CIVIL",
+      "NOMBRE_INSTITUCIÓN": "CORPORACION UNIVERSIDAD DE LA COSTA CUC",
+      "SECTOR": "Privado",
+      "MODALIDAD": "Presencial",
+      "DEPARTAMENTO_OFERTA_PROGRAMA": "Atlántico",
+      "DIVISIÓN UNINORTE": "Ingenierías",
+      "QUE_CAMBIO": "NÚMERO_CRÉDITOS: 158 → 162"
     }
   ],
-  "n_nuevos": 882,
-  "n_inactivos": 216,
-  "n_modificados": 1659
+  "n_nuevos": 884,
+  "n_inactivos": 217,
+  "n_modificados": 1661
 }
